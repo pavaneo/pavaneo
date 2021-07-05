@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavaneo
 - 👀 I’m interested in AR/VR, Machine Learning And NLP.
 - 🌱 I’m currently learning Natural Language Processing in iOS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Mail Me at pavanpeo@gmail.com / Telegram ID: Pavan_Jain / SkypeID: pavanpeo 
 
 <!---
